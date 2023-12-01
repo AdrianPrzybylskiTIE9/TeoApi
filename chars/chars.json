@@ -49,14 +49,26 @@
     },
     {
         "id": 9,
-        "nazwa": "Orzech włoski",
-        "opis": "Orzechy włoskie są bogate w zdrowe tłuszcze, białko i składniki odżywcze.",
-        "cena": 12.99
-    },
-    {
-        "id": 10,
         "nazwa": "Teo",
         "opis": "Teo Rzechy w twojej mordzie",
         "cena": 21.37
+    },
+    {
+        "id": 10,
+        "nazwa": "Orzech migdałowy",
+        "opis": "Migdały są bogatym źródłem witaminy E i zdrowych tłuszczów.",
+        "cena": 14.79
+    },
+    {
+        "id": 11,
+        "nazwa": "Orzech wąski",
+        "opis": "Orzechy wąskie, drobne i smaczne.",
+        "cena": 6.49
+    },
+    {
+        "id": 12,
+        "nazwa": "Orzech kasztanowca",
+        "opis": "Orzechy kasztanowca są popularne w sezonie jesienno-zimowym.",
+        "cena": 9.99
     }
 ]
