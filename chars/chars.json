@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "nazwa": "Orzech włoski",
+        "opis": "Orzechy włoskie są bogate w zdrowe tłuszcze, białko i składniki odżywcze.",
+        "cena": 12.99
+    },
+    {
+        "id": 2,
+        "nazwa": "Orzech laskowy",
+        "opis": "Orzechy laskowe są źródłem witamin, minerałów i antyoksydantów.",
+        "cena": 10.49
+    },
+    {
+        "id": 3,
+        "nazwa": "Orzech nerkowca",
+        "opis": "Orzechy nerkowca są smaczne i zawierają zdrowe tłuszcze jednonienasycone.",
+        "cena": 8.75
+    },
+    {
+        "id": 4,
+        "nazwa": "Orzech ziemny",
+        "opis": "Orzechy ziemne są bogatym źródłem białka roślinnego i witamin.",
+        "cena": 7.99
+    },
+    {
+        "id": 5,
+        "nazwa": "Orzech makadamia",
+        "opis": "Orzechy makadamia mają wysoką zawartość kwasów omega-9 i są pyszne w smaku.",
+        "cena": 15.25
+    },
+    {
+        "id": 6,
+        "nazwa": "Orzech pistacjowy",
+        "opis": "Orzechy pistacjowe są bogatym źródłem białka, błonnika i witamin.",
+        "cena": 11.99
+    },
+    {
+        "id": 7,
+        "nazwa": "Orzech brazylijski",
+        "opis": "Orzechy brazylijskie są bogatym źródłem selenu i witamin E oraz B.",
+        "cena": 9.85
+    },
+    {
+        "id": 8,
+        "nazwa": "Orzech pekan",
+        "opis": "Orzechy pekan są słodkie w smaku i zawierają dużo białka.",
+        "cena": 13.45
+    },
+    {
+        "id": 9,
+        "nazwa": "Orzech włoski",
+        "opis": "Orzechy włoskie są bogate w zdrowe tłuszcze, białko i składniki odżywcze.",
+        "cena": 12.99
+    },
+    {
+        "id": 10,
+        "nazwa": "Teo",
+        "opis": "Teo Rzechy w twojej mordzie",
+        "cena": 21.37
+    }
+]
